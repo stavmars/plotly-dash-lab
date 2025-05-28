@@ -147,7 +147,7 @@ After completing the initial dashboard setup, expand it by integrating an additi
     - Ensure that the title updates correctly when either dropdown selection changes, reflecting both the city and the price level in the visualization.
 
 
-<!-- For a complete solution to these exercises, visit [this link](https://github.com/stavmars/plotly-dash-lab/blob/main/scripts/dash_callbacks_practice.py). -->
+For a complete solution to these exercises, visit [this link](https://github.com/stavmars/plotly-dash-lab/blob/main/scripts/dash_callbacks_practice.py).
 
 
 <br>
