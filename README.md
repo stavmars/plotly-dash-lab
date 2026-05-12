@@ -40,7 +40,7 @@ Plotly helps us create the visualizations. Dash helps us turn these visualizatio
 
 You can find examples of dashboards and interactive data applications built with Plotly and Dash here:
 
-https://plotly.com/examples/
+[https://plotly.com/examples/](https://plotly.com/examples/)
 
 You do not need to understand these examples in detail now. The purpose of looking at them is to get a sense of what is possible: dashboards can range from simple pages with one chart and one dropdown to complete analytical applications with multiple views, filters, maps, tables, and interactive controls.
 
@@ -72,7 +72,7 @@ pip install dash plotly pandas jupyter
 
 Download and unzip the datasets from:
 
-https://github.com/stavmars/plotly-dash-lab/raw/main/datasets.zip
+[https://github.com/stavmars/plotly-dash-lab/raw/main/datasets.zip](https://github.com/stavmars/plotly-dash-lab/raw/main/datasets.zip)
 
 After extracting the file, make sure that your working folder contains a `datasets/` directory.
 
@@ -140,8 +140,8 @@ In this part, you will work with a dashboard that includes:
 
 ## Additional Resources
 
-- Plotly documentation: https://plotly.com/python/
-- Dash documentation: https://dash.plotly.com/
-- Dash callbacks: https://dash.plotly.com/basic-callbacks
-- Dash components: https://dash.plotly.com/dash-core-components
-- Plotly and Dash examples: https://plotly.com/examples/
+- [Plotly documentation](https://plotly.com/python/)
+- [Dash documentation](https://dash.plotly.com/)
+- [Dash callbacks](https://dash.plotly.com/basic-callbacks)
+- [Dash components](https://dash.plotly.com/dash-core-components)
+- [Plotly and Dash examples](https://plotly.com/examples/)
