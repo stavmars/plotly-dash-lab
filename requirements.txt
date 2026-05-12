@@ -1,0 +1,4 @@
+dash>=2.11
+plotly
+pandas
+jupyter

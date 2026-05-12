@@ -13,32 +13,15 @@ For detailed documentation and more information, visit [Dash by Plotly](https://
 >
 >In this lab, we will use Dash to create a dashboard that visualizes and enables interactive exploration of TripAdvisor data on Greek restaurants. This subset is part of a larger dataset covering European restaurants with details like location, average rating, review counts, and cuisine types. For additional information, visit the [TripAdvisor European Restaurants dataset on Kaggle](https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants). Our focus will be specifically on restaurants in Greece.
 
-# Setting Up Your Development Environment
+# Working with Dash Apps
 
-For developing Dash applications, while Jupyter notebooks can be used for quick prototyping, we will switch to using Visual Studio Code (VSCode) in this part of the lab. Unlike Jupyter, VSCode is an Integrated Development Environment (IDE) that is better suited for handling more complex development scenarios that may involve managing multiple files, operating web servers, and debugging—tasks that are more difficult in Jupyter. This makes VSCode the preferred environment for developing Dash applications in a real-world setting.
+In the previous part of the lab, we used Jupyter Notebook for quick data exploration and Plotly visualizations.
 
+For Dash, we will work with regular Python files. A Dash app runs locally as a small web application and is viewed through the browser.
 
-### Installing Visual Studio Code
+You may use any code editor or IDE you prefer, such as Visual Studio Code, PyCharm, Spyder, or a simple text editor together with a terminal.
 
-To get started with VSCode, follow these steps:
-
-1. **Download VSCode**: Visit the [official Visual Studio Code website](https://code.visualstudio.com/download) and download the version compatible with your operating system.
-2. **Install VSCode**: Run the installer and follow the on-screen instructions to install Visual Studio Code on your computer.
-
-### Setting Up Python and Dash in VSCode
-
-To run Dash applications in VSCode, you first need to set up your environment:
-
-1. **Install Python**: Download and install Python from the [official Python website](https://www.python.org/downloads/). Make sure to check 'Add Python to PATH' during installation.
-2. **Open VSCode**: Start Visual Studio Code on your computer.
-3. **Install the Python Extension for VSCode**: From the Extensions view (`Ctrl+Shift+X`), search for and install the 'Python' extension provided by Microsoft.
-4. **Set Up a Python Interpreter**: Access the Command Palette with `Ctrl+Shift+P`, type 'Python: Select Interpreter', and choose your Python interpreter.
-5. **Install Dash**: In VSCode, open a new terminal (`Terminal` > `New Terminal`) and execute:
-
-    ```bash
-    pip install dash plotly
-    ```
-
+Before continuing, make sure you have already completed the setup steps from the main README, including the installation of the required Python packages.
 
 ### Verifying the Setup
 
@@ -60,7 +43,7 @@ if __name__ == '__main__':
 
 ```
 
-To run the app, open the terminal in VSCode and execute the command:
+To run the app, open a terminal and execute the command:
 
 ```bash
 python hello_dash.py
