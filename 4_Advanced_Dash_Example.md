@@ -204,7 +204,7 @@ if __name__ == "__main__":
 
 ```
 
-For a complete solution to these exercises, visit [this link](https://github.com/stavmars/plotly-dash-lab/blob/main/scripts/restaurants_dashboard.py).
+<!-- For a complete solution to these exercises, visit [this link](https://github.com/stavmars/plotly-dash-lab/blob/main/scripts/restaurants_dashboard.py). -->
 
 
 <br>
