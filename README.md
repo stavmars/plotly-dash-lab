@@ -18,22 +18,6 @@ For example, a dashboard may help answer questions such as:
 - Are there unusual values or outliers?
 - What happens if we focus only on a specific category, city, time period, or group of users?
 
-Dashboards are commonly used in many domains, including:
-
-- business analytics, for monitoring sales, revenue, and customers;
-- public administration, for tracking indicators and services;
-- health analytics, for monitoring patients, resources, or outcomes;
-- tourism analytics, for understanding visitor flows and demand;
-- machine learning and data science, for monitoring experiments, model performance, and data quality.
-
-In this lab, we will use restaurant and tourism datasets to build progressively more interactive visualizations and dashboards. For example, we may want to explore questions such as:
-
-- Which restaurants have the largest number of reviews?
-- How are restaurants distributed across cities or regions?
-- What types of cuisine are most common?
-- How do ratings differ across areas?
-- What changes when we filter the data by city, region, or rating?
-
 This is where interactivity becomes important. A static chart can answer one fixed question. An interactive dashboard allows the user to ask many related questions by changing filters, selecting values, and exploring the data directly.
 
 A typical dashboard may include:
