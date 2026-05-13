@@ -111,7 +111,7 @@ After completing the initial dashboard setup, here are some additional exercises
    - **Hint**: To insert the paragraph with a clickable link, use the `html.P` element and its `children` parameter to nest text and the `html.A` component for the hyperlink. Refer to the [documentation for the `html.P` element](https://dash.plotly.com/dash-html-components/p) for more details on syntax and usage.
 
 
-<!-- For a complete solution to these exercises, visit [this link](https://github.com/stavmars/plotly-dash-lab/blob/main/scripts/dash_components_practice.py). -->
+For a complete solution to these exercises, visit [this link](https://github.com/stavmars/plotly-dash-lab/blob/main/scripts/dash_components_practice.py).
 
 
 ### Additional Notes
